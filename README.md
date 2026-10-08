@@ -1,1 +1,1 @@
-# Mini-sito-web-de-videojuegos-aaa
+# Mini-sitio-web-de-videojuegos-aaa
